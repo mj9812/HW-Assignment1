@@ -3,7 +3,7 @@
 First Home Work Assignment on the Node.js Master Class.
 
 ## Project Description
-A simple "Hello World" RESTful JSON API that listens on a port provided by the user.
+A simple "Hello World" RESTful JSON API that listens on port 3000.
 When someone posts anything to the route /hello, it will return a welcome message, in JSON format.
 
 ## Install and Run
